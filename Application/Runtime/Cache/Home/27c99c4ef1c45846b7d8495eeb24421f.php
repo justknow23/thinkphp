@@ -1,0 +1,1 @@
+<?php if (!defined('THINK_PATH')) exit();?><p>我爱北京天安门</p>
